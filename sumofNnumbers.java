@@ -1,4 +1,4 @@
-public class recursion{
+public class sumofNnumbers{
     public static int  sum(int n){
        
        if(n==1){
