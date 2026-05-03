@@ -1,4 +1,4 @@
-public class recursion{
+public class Fibonacci{
     public static int  fibo(int n){
        // int t1=0;int t2=1;int sum=0;
        if(n==0){
