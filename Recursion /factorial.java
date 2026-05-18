@@ -9,4 +9,4 @@ public class factorial{
         long result=fact(5);
         System.out.print(result);
     }
-}
+}// end
