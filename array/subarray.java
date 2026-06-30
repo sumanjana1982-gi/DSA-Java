@@ -1,3 +1,4 @@
+// subarray:contunious part of array
 public class subarray{
     public static void SA(int a[]){
         int sum=0;
