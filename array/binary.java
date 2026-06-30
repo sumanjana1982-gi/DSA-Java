@@ -1,8 +1,11 @@
+//note point :time complexity is o(logn).and best case o(1).worst and avg case is o(logn).
+//array should sorted .
+
 public class binary{
     public static int BS(int a[],int k){
         int mid,low ,high;
         low =0;high=a.length-1;
-        while(low<=high){
+        while(low<=high){  
             mid=(low+high)/2;
             if(a[mid]==k){
                 return mid;
