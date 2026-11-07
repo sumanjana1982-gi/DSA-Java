@@ -5,7 +5,7 @@ public class printdc{
             System.out.print(n+" ");
             return;
         }
-        System.out.print(m+" ");
+        System.out.print(n+" ");
         printdec(n-1);
     }
     public static void main(String[] arg){
