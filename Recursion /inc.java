@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class inc{
     public static void inc(int n,int k){
         if(n==k){
@@ -12,5 +13,5 @@ public class inc{
         System.out.println("ENter a number  :");
         int k=sc.nextInt();
         inc(1,k);}
-        
+
 }
